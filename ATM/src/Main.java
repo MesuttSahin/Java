@@ -4,8 +4,6 @@ public class Main
     public static void main(String[] args)
     {
         Scanner scanner=new Scanner(System.in);
-        //bi tane ana ekran işlemleri seçtiğimiz
-        //ana ekranda ki işlemler para çekme para yatırma Bakiye sorgulama
         System.out.print("Enter your password: ");
         int pw=scanner.nextInt();
         Atm atm=new Atm();
