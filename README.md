@@ -1,2 +1,2 @@
 # Java
-Java Projelerim
+Java Projelerim (Başlangıçtan - Bitişe)
