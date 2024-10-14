@@ -1,2 +1,2 @@
 # Java
-Java Projelerim (Başlangıçtan - Bitişe)
+My simple and intermediate level java projects
